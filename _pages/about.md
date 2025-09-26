@@ -16,44 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 I am a Master student in Applied Statistics at Fudan University and I am fortunate to be advised by Prof.Wang Jian.Before that, I did my undergrad at Fudan University where I received a B.S. in Data Science.
 
-
-
-
-
-# 🔬 Research Interests
-
-- **BEV (Bird's Eye View) Perception**: Developing advanced methods for 3D scene understanding from multi-camera inputs
-- **Vision Language Models (VLMs)**: Integrating natural language understanding with visual perception for autonomous systems
-- **3D Object Detection**: Creating robust detection algorithms for complex driving scenarios
-- **Multi-modal Learning**: Combining visual, textual, and sensor data for comprehensive scene understanding
-- **Scene Understanding**: Developing models that can interpret complex traffic scenarios and driving behaviors
-
-# 💻 Technical Skills
-
-- **Programming Languages**: Python, C++, CUDA
-- **Deep Learning Frameworks**: PyTorch, TensorFlow
-- **Computer Vision**: OpenCV, MMCV, MMDetection3D
-- **Robotics**: ROS (Robot Operating System)
-- **Development Tools**: Git, Docker, Linux
-- **Research Tools**: Weights & Biases, TensorBoard
-
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Successfully released BEVVLM - a novel approach combining BEV perception with Vision Language Models
-- *2023.12*: &nbsp;📚 Submitted first-author paper on multi-modal autonomous driving perception
-- *2023.09*: &nbsp;🎓 Started PhD program focusing on Computer Vision and Autonomous Driving
-- *2023.06*: &nbsp;🚗 Joined autonomous driving research group
+- *2025.09*: &nbsp;🎉🎉 Successfully released BEVVLM - a novel approach combining BEV perception with Vision Language Models
+- *2023.09*: &nbsp;📚 Submitted first-author paper on multi-modal autonomous driving perception
+
 
 # 📝 Publications 
 
 *Publications section - papers will be added as they are published*
 
-**Upcoming Publications:**
-- Research on BEV perception and Vision Language Models integration
-- Multi-modal learning approaches for autonomous driving
-- 3D object detection improvements in complex scenarios
+
 
 # 🚀 Featured Projects
 
