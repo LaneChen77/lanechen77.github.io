@@ -57,9 +57,9 @@ A cutting-edge research project that combines Bird's Eye View (BEV) perception w
 - *2021.09 - 2025.06*, **Bachelor's Degree in Data Science**, 
 # 🎖 Honors and Awards
 *Section will be updated*
-
+<!--
 # 💬 Invited Talks
 *Section will be updated as speaking opportunities arise*
-
+-->
 # 💻 Research Experience
 *Section will be updated*
