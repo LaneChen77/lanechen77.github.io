@@ -53,16 +53,13 @@ A cutting-edge research project that combines Bird's Eye View (BEV) perception w
 *Additional projects will be added as research progresses*
 
 # 📖 Education
-- *2023.09 - Present*, **PhD in Computer Science**, Focus on Computer Vision and Autonomous Driving
-- *2019.09 - 2023.06*, **Bachelor's Degree in Computer Science**, Graduated with honors
-
+- *2023.09 - Present*, **Master in Applied statistics**
+- *2021.09 - 2025.06*, **Bachelor's Degree in Data Science**, 
 # 🎖 Honors and Awards
-- *2023.09* PhD Fellowship Award for outstanding academic performance
-- *2023.06* Undergraduate Thesis Excellence Award for work on computer vision
+*Section will be updated*
 
 # 💬 Invited Talks
 *Section will be updated as speaking opportunities arise*
 
 # 💻 Research Experience
-- *2023.09 - Present*, **PhD Research**, Computer Vision and Autonomous Driving Lab
-- *2023.01 - 2023.06*, **Research Intern**, Autonomous Driving Perception Team
+*Section will be updated *
