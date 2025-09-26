@@ -28,6 +28,17 @@ I'm intersted in deep learning theory, automonous driving.
 *Publications section - papers will be added as they are published*
 
 
+
+# 📖 Education
+- *2023.09 - Present*, **Master in Applied statistics**
+- *2021.09 - 2025.06*, **Bachelor's Degree in Data Science**, 
+# 🎖 Honors and Awards
+*Section will be updated*
+
+# 💻 Research Experience
+*Section will be updated*
+<!--# 💬 Invited Talks
+*Section will be updated as speaking opportunities arise*-->
 <!--# 🚀 Featured Projects
 
 ## BEVVLM - BEV Vision Language Model
@@ -49,12 +60,3 @@ A cutting-edge research project that combines Bird's Eye View (BEV) perception w
 </div>
 
 *Additional projects will be added as research progresses*-->
-# 📖 Education
-- *2023.09 - Present*, **Master in Applied statistics**
-- *2021.09 - 2025.06*, **Bachelor's Degree in Data Science**, 
-# 🎖 Honors and Awards
-*Section will be updated*
-<!--# 💬 Invited Talks
-*Section will be updated as speaking opportunities arise*-->
-# 💻 Research Experience
-*Section will be updated*
