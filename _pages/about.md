@@ -20,8 +20,8 @@ redirect_from:
 I am a Master student in Applied Statistics at Fudan University and I am fortunate to be advised by Prof.Wang Jian.Before that, I did my undergrad at Fudan University where I received a B.S. in Data Science.
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Successfully released BEVVLM - a novel approach combining BEV perception with Vision Language Models
-- *2023.09*: &nbsp;📚 Submitted first-author paper on multi-modal autonomous driving perception
+- *2025.09*: &nbsp; Successfully released BEVVLM - a novel approach combining BEV perception with Vision Language Models
+- *2023.09*: &nbsp; Submitted first-author paper on multi-modal autonomous driving perception
 
 
 # 📝 Publications 
@@ -62,4 +62,4 @@ A cutting-edge research project that combines Bird's Eye View (BEV) perception w
 *Section will be updated as speaking opportunities arise*
 
 # 💻 Research Experience
-*Section will be updated *
+*Section will be updated*
