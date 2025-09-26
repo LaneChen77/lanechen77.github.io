@@ -17,42 +17,77 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Lane Chen, a PhD student specializing in Computer Vision and Autonomous Driving. My research focuses on advancing the understanding of complex driving scenes through cutting-edge computer vision techniques, with particular emphasis on Bird's Eye View (BEV) perception and Vision Language Models (VLMs).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My work bridges the gap between visual perception and semantic understanding in autonomous driving systems, developing novel approaches that enable vehicles to better interpret and navigate through complex real-world environments. I am passionate about creating robust, efficient, and interpretable AI systems that can understand the world as comprehensively as humans do.
 
+I am currently pursuing my PhD degree and actively contributing to the computer vision and autonomous driving research community through publications and open-source projects.
+
+# 🔬 Research Interests
+
+- **BEV (Bird's Eye View) Perception**: Developing advanced methods for 3D scene understanding from multi-camera inputs
+- **Vision Language Models (VLMs)**: Integrating natural language understanding with visual perception for autonomous systems
+- **3D Object Detection**: Creating robust detection algorithms for complex driving scenarios
+- **Multi-modal Learning**: Combining visual, textual, and sensor data for comprehensive scene understanding
+- **Scene Understanding**: Developing models that can interpret complex traffic scenarios and driving behaviors
+
+# 💻 Technical Skills
+
+- **Programming Languages**: Python, C++, CUDA
+- **Deep Learning Frameworks**: PyTorch, TensorFlow
+- **Computer Vision**: OpenCV, MMCV, MMDetection3D
+- **Robotics**: ROS (Robot Operating System)
+- **Development Tools**: Git, Docker, Linux
+- **Research Tools**: Weights & Biases, TensorBoard
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp;🎉🎉 Successfully released BEVVLM - a novel approach combining BEV perception with Vision Language Models
+- *2023.12*: &nbsp;📚 Submitted first-author paper on multi-modal autonomous driving perception
+- *2023.09*: &nbsp;🎓 Started PhD program focusing on Computer Vision and Autonomous Driving
+- *2023.06*: &nbsp;🚗 Joined autonomous driving research group
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+*Publications section - papers will be added as they are published*
+
+**Upcoming Publications:**
+- Research on BEV perception and Vision Language Models integration
+- Multi-modal learning approaches for autonomous driving
+- 3D object detection improvements in complex scenarios
+
+# 🚀 Featured Projects
+
+## BEVVLM - BEV Vision Language Model
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Featured Project</div><img src='images/500x300.png' alt="BEVVLM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**BEVVLM Repository**](https://github.com/LaneChen77/BEVVLM)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+A cutting-edge research project that combines Bird's Eye View (BEV) perception with Vision Language Models for enhanced autonomous driving capabilities. This project represents a significant advancement in multi-modal understanding for autonomous vehicles.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Key Features:**
+- Integration of BEV spatial representation with natural language understanding
+- Multi-modal fusion architecture for comprehensive scene interpretation
+- Real-time inference capabilities for autonomous driving applications
+- Comprehensive evaluation on autonomous driving benchmarks
+
+[**GitHub**](https://github.com/LaneChen77/BEVVLM) | [**Documentation**](https://github.com/LaneChen77/BEVVLM#readme)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+*Additional projects will be added as research progresses*
+
+# 📖 Education
+- *2023.09 - Present*, **PhD in Computer Science**, Focus on Computer Vision and Autonomous Driving
+- *2019.09 - 2023.06*, **Bachelor's Degree in Computer Science**, Graduated with honors
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* PhD Fellowship Award for outstanding academic performance
+- *2023.06* Undergraduate Thesis Excellence Award for work on computer vision
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+*Section will be updated as speaking opportunities arise*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experience
+- *2023.09 - Present*, **PhD Research**, Computer Vision and Autonomous Driving Lab
+- *2023.01 - 2023.06*, **Research Intern**, Autonomous Driving Perception Team
