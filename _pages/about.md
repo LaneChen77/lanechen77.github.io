@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 I am a Master student in Applied Statistics at Fudan University and I am fortunate to be advised by Prof.Wang Jian.Before that, I did my undergrad at Fudan University where I received a B.S. in Data Science.
-I'm intersted in deep learning theory, automonous driving.
+I'm intersted in deep learning theory,automonous driving.Besides,I am also a Pure Mathematics Enthusiast 
 # 🔥 News
 - *2023.09*: &nbsp; Submitted BEV-VLM
 
@@ -38,8 +38,8 @@ I'm intersted in deep learning theory, automonous driving.
 # 💻 Research Experience
 *Section will be updated*
 <!--# 💬 Invited Talks
-*Section will be updated as speaking opportunities arise*-->
-<!--# 🚀 Featured Projects
+*Section will be updated as speaking opportunities arise*
+# 🚀 Featured Projects
 
 ## BEVVLM - BEV Vision Language Model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Featured Project</div><img src='images/500x300.png' alt="BEVVLM" width="100%"></div></div>
