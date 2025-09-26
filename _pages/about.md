@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Lane Chen, a PhD student specializing in Computer Vision and Autonomous Driving. My research focuses on advancing the understanding of complex driving scenes through cutting-edge computer vision techniques, with particular emphasis on Bird's Eye View (BEV) perception and Vision Language Models (VLMs).
+I am a Master student in Applied Statistics at Fudan University and I am fortunate to be advised by Prof.Wang Jian.Before that, I did my undergrad at Fudan University where I received a B.S. in Data Science.
 
-My work bridges the gap between visual perception and semantic understanding in autonomous driving systems, developing novel approaches that enable vehicles to better interpret and navigate through complex real-world environments. I am passionate about creating robust, efficient, and interpretable AI systems that can understand the world as comprehensively as humans do.
 
-I am currently pursuing my PhD degree and actively contributing to the computer vision and autonomous driving research community through publications and open-source projects.
+
+
 
 # 🔬 Research Interests
 
