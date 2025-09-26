@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lane Chen - Academic Homepage"
-description              : "PhD Student in Computer Vision and Autonomous Driving, specializing in BEV perception and Vision Language Models"
+title                    : "Chen Guancheng - Academic Homepage"
+description              : "Master Student in statistics"
 repository               : "LaneChen77/lanechen77.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lane Chen"
+  name             : "Chen Guancheng"
   avatar           : "images/profile.jpg"
-  bio              : "PhD Student in Computer Vision and Autonomous Driving"
-  location         : "Beijing, China"
+  bio              : "Master Student in Statistics"
+  location         : "shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lane.chen@university.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=DWW80IUAAAAJ&hl=zh-CN"
+  email            : "gcchen25@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
