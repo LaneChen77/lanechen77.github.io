@@ -28,8 +28,7 @@ I am a Master student in Applied Statistics at Fudan University and I am fortuna
 *Publications section - papers will be added as they are published*
 
 
-<!--
-# 🚀 Featured Projects
+<!--# 🚀 Featured Projects
 
 ## BEVVLM - BEV Vision Language Model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Featured Project</div><img src='images/500x300.png' alt="BEVVLM" width="100%"></div></div>
@@ -49,16 +48,13 @@ A cutting-edge research project that combines Bird's Eye View (BEV) perception w
 </div>
 </div>
 
-*Additional projects will be added as research progresses*
--->
+*Additional projects will be added as research progresses*-->
 # 📖 Education
 - *2023.09 - Present*, **Master in Applied statistics**
 - *2021.09 - 2025.06*, **Bachelor's Degree in Data Science**, 
 # 🎖 Honors and Awards
 *Section will be updated*
-<!--
-# 💬 Invited Talks
-*Section will be updated as speaking opportunities arise*
--->
+<!--# 💬 Invited Talks
+*Section will be updated as speaking opportunities arise*-->
 # 💻 Research Experience
 *Section will be updated*
