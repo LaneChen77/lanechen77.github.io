@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 I am a Master student in Applied Statistics at Fudan University and I am fortunate to be advised by Prof.Wang Jian.Before that, I did my undergrad at Fudan University where I received a B.S. in Data Science.
-I'm intersted in deep learning theory,automonous driving.
-# 🔥 News
-- *2023.09*: &nbsp; Submitted BEV-VLM
+I'm intersted in deep learning theory,automonous driving and embodied ai.Besides,I'm also interested in Quantitative Finance.
+# 🔥 NewsBe
+- *2025.09*: &nbsp; Submitted BEV-VLM
 
 
 # 📝 Publications 
@@ -30,7 +30,7 @@ I'm intersted in deep learning theory,automonous driving.
 
 
 # 📖 Education
-- *2023.09 - Present*, **Master in Applied statistics**
+- *2025.09 - Present*, **Master in Applied statistics**
 - *2021.09 - 2025.06*, **Bachelor's Degree in Data Science**, 
 # 🎖 Honors and Awards
 *Section will be updated*
