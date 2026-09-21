@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Guancheng - Academic Homepage"
-description              : "Academic homepage of Guancheng Chen, a master's student in Applied Statistics at Fudan University."
+description              : "Academic homepage of Guancheng Chen, a master's student in Statistics at Fudan University."
 repository               : "LaneChen77/lanechen77.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Guancheng"
   avatar           : "images/125037287.jpg"
-  bio              : "M.S. Student in Applied Statistics"
+  bio              : "M.S. Student in Statistics"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
