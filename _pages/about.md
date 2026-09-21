@@ -27,7 +27,7 @@ My long-term vision is to build AI systems that can work in the physical world a
 # 🔥 News
 
 - *2026.07*: &nbsp; Identified a bug in the Max-V1 backbone implementation used in the **BEV-VLM** experiments. The currently reported results should not be considered reliable until the implementation is corrected and the experiments are rerun.
-- *2025.10*: &nbsp; Released [**Max-V1: Less is More**](https://arxiv.org/abs/2510.00060), a lean vision-language model for end-to-end autonomous driving.
+- *2025.09*: &nbsp; Released [**Max-V1: Less is More**](https://arxiv.org/abs/2510.00060), a lean vision-language model for end-to-end autonomous driving.
 - *2025.09*: &nbsp; Released [**BEV-VLM**](https://arxiv.org/abs/2509.25249), which studies trajectory planning through a unified BEV abstraction.
 
 <span class='anchor' id='publications'></span>
