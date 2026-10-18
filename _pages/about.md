@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am a master's student in Statistics at Fudan University, advised by Prof. Jian Wang. I received my B.S. in Data Science from Fudan University.
+I am a master's student in Statistics at Fudan University, advised by Prof. Jian Wang. I received my B.S. in Data Science from Fudan University. I am currently an exchange student at the [University of Tübingen](https://uni-tuebingen.de/en/), Germany.
 
 My research interests include autonomous driving, vision-language models, depth estimation, and embodied AI.
 
@@ -55,5 +55,6 @@ I am currently exploring visual autoregressive (VAR) modeling for monocular dept
 
 # 📖 Education
 
+- *2026.10 - Present*, **Exchange Student**, University of Tübingen, Germany
 - *2025.09 - Present*, **M.S. in Statistics**, Fudan University
 - *2021.09 - 2025.06*, **B.S. in Data Science**, Fudan University
