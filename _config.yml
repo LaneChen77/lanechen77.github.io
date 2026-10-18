@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chen Guancheng - Academic Homepage"
-description              : "Academic homepage of Guancheng Chen, an M.S. student in Statistics at Fudan University and an exchange student at the University of Tübingen."
+description              : ""
 repository               : "LaneChen77/lanechen77.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chen Guancheng"
   avatar           : "images/125037287.jpg"
-  bio              : "M.S. Student in Statistics | Exchange Student at Tübingen"
+  bio              : "M.S. Student in Statistics | Computer Science Exchange Student at Tübingen"
   location         : "Tübingen, Germany"
   employer         :
   pubmed           : 
