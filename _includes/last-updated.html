@@ -1,0 +1,35 @@
+{% assign homepage_revision = site.github.build_revision | default: 'main' | url_encode %}
+<footer class="site-update-footer">
+  <a id="site-last-updated"
+     href="https://github.com/{{ site.repository }}/commits/main/_pages/about.md"
+     data-commits-api="https://api.github.com/repos/{{ site.repository }}/commits?sha={{ homepage_revision }}&amp;path=_pages%2Fabout.md&amp;per_page=1">
+    View homepage update history
+  </a>
+</footer>
+
+<script>
+  (async () => {
+    const link = document.getElementById('site-last-updated');
+
+    try {
+      const response = await fetch(link.dataset.commitsApi);
+      if (!response.ok) return;
+
+      const [commit] = await response.json();
+      const timestamp = commit?.commit?.committer?.date;
+      if (!timestamp) return;
+
+      const date = new Intl.DateTimeFormat('sv-SE', {
+        timeZone: 'Europe/Berlin',
+        year: 'numeric', month: '2-digit', day: '2-digit'
+      }).format(new Date(timestamp));
+      const time = document.createElement('time');
+      time.dateTime = date;
+      time.textContent = date;
+      link.replaceChildren('Site last updated ', time);
+      link.href = commit.html_url;
+    } catch {
+      /* Leave the history link available when the API is unreachable. */
+    }
+  })();
+</script>

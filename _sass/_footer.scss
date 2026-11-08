@@ -2,6 +2,24 @@
    FOOTER
    ========================================================================== */
 
+.site-update-footer {
+  max-width: $x-large;
+  margin: 4rem auto 0;
+  padding: 0 1rem 1rem;
+  color: mix($text-color, $gray, 30%);
+  font-size: $type-size-7;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+}
+
 .page__footer {
   @include clearfix;
   float: left;
