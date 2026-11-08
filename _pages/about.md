@@ -18,19 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently an exchange student in Computer Science at the [University of Tübingen](https://uni-tuebingen.de/en/), Germany. I am a master's student in Statistics at Fudan University, advised by Prof. Jian Wang. I received my B.S. in Data Science from Fudan University.
+I am currently an exchange student in Computer Science at the [University of Tübingen](https://uni-tuebingen.de/en/), Germany. I am a master's student in Statistics at Fudan University, advised by Prof. Jian Wang. I received my B.S. in Data Science from Fudan University, where I spent the first two years of my undergraduate studies in the Department of Physics.
 
 My research interests include autonomous driving, vision-language models, 3D vision, and embodied AI.
 
 My long-term vision is to build AI systems that can work in the physical world and solve real-world problems.
 
-# 🔥 News
+# News
 
 - *2025.09*: &nbsp; Released [**Max-V1: Less is More**](https://arxiv.org/abs/2510.00060), a lean vision-language model for end-to-end autonomous driving.
 - *2025.09*: &nbsp; Released [**BEV-VLM**](https://arxiv.org/abs/2509.25249), which studies trajectory planning through a unified BEV abstraction.
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications
+# Publications
 
 ### [BEV-VLM: Trajectory Planning via Unified BEV Abstraction](https://arxiv.org/abs/2509.25249)
 
@@ -48,11 +48,11 @@ Sheng Yang, Tong Zhan, **Guancheng Chen**, Yanfeng Lu, Jian Wang<br>
 
 <small>* Equal contribution.</small>
 
-# 💡 Current Research
+# Current Research
 
 I am currently exploring visual autoregressive (VAR) modeling for monocular depth estimation, with a focus on coarse-to-fine depth prediction.
 
-# 📖 Education
+# Education
 
 - *2026.10 - Present*, **Exchange Student in Computer Science**, University of Tübingen, Germany
 - *2025.09 - Present*, **M.S. in Statistics**, Fudan University
