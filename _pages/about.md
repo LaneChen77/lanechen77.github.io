@@ -34,13 +34,12 @@ My long-term vision is to build AI systems that can work in the physical world a
 
 ### [BEV-VLM: Trajectory Planning via Unified BEV Abstraction](https://arxiv.org/abs/2509.25249)
 
-[[Paper](https://arxiv.org/abs/2509.25249)]
 
 > **Reproducibility note (July 2026).** I identified a bug in the Max-V1 backbone implementation used in BEV-VLM, which affects the validity of the reported experiments. The results should not be considered reliable until the bug is fixed and the experiments are rerun. As a co-author, I take responsibility for my part in this oversight.
 
 ### [Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving](https://arxiv.org/abs/2510.00060)
 
-Sheng Yang, Tong Zhan, **Guancheng Chen**, Yanfeng Lu, Jian Wang<br>
+
 
 
 # Current Research
@@ -51,4 +50,5 @@ I am currently exploring next scale prediction model for monocular depth estimat
 
 - *2026.10 - Present*, **Exchange Student in Computer Science**, University of Tübingen, Germany
 - *2025.09 - Present*, **M.S. in Statistics**, Fudan University
-- *2021.09 - 2025.06*, **B.S. in Data Science**, Fudan University
+- *2023.09 - 2025.06*, **B.S. in Data Science**, Fudan University
+- *2021.09 - 2023.06*, **B.S. in Physics**, Fudan University
