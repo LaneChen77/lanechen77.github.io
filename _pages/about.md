@@ -34,8 +34,6 @@ My long-term vision is to build AI systems that can work in the physical world a
 
 ### [BEV-VLM: Trajectory Planning via Unified BEV Abstraction](https://arxiv.org/abs/2509.25249)
 
-**Guancheng Chen**<sup>*</sup>, Sheng Yang<sup>*</sup>, Tong Zhan, Jian Wang<br>
-*arXiv preprint arXiv:2509.25249, 2025*<br>
 [[Paper](https://arxiv.org/abs/2509.25249)]
 
 > **Reproducibility note (July 2026).** I identified a bug in the Max-V1 backbone implementation used in BEV-VLM, which affects the validity of the reported experiments. The results should not be considered reliable until the bug is fixed and the experiments are rerun. As a co-author, I take responsibility for my part in this oversight.
@@ -43,14 +41,11 @@ My long-term vision is to build AI systems that can work in the physical world a
 ### [Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving](https://arxiv.org/abs/2510.00060)
 
 Sheng Yang, Tong Zhan, **Guancheng Chen**, Yanfeng Lu, Jian Wang<br>
-*arXiv preprint arXiv:2510.00060, 2025*<br>
-[[Paper](https://arxiv.org/abs/2510.00060)]
 
-<small>* Equal contribution.</small>
 
 # Current Research
 
-I am currently exploring visual autoregressive (VAR) modeling for monocular depth estimation, with a focus on coarse-to-fine depth prediction.
+I am currently exploring next scale prediction model for monocular depth estimation.
 
 # Education
 
