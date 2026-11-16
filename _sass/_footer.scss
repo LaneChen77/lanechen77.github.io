@@ -9,6 +9,14 @@
   color: mix($text-color, $gray, 30%);
   font-size: $type-size-7;
 
+  &__views {
+    margin-top: 0.5rem;
+
+    img {
+      vertical-align: middle;
+    }
+  }
+
   a {
     color: inherit;
     text-decoration: none;

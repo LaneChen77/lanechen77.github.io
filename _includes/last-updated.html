@@ -5,6 +5,15 @@
      data-commits-api="https://api.github.com/repos/{{ site.repository }}/commits?sha={{ homepage_revision }}&amp;path=_pages%2Fabout.md&amp;per_page=1">
     View homepage update history
   </a>
+  {% if jekyll.environment == 'production' %}
+    <div class="site-update-footer__views">
+      <a href="https://hits.sh/lanechen77.github.io/"
+         rel="noopener noreferrer">
+        <img src="https://hits.sh/lanechen77.github.io.svg?label=Homepage%20views&amp;labelColor=41474c&amp;color=5b6269"
+             alt="Homepage view statistics" height="20" referrerpolicy="no-referrer">
+      </a>
+    </div>
+  {% endif %}
 </footer>
 
 <script>
